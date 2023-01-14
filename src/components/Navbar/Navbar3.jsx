@@ -1,5 +1,5 @@
 import React from 'react'
-import amazonfashion from "../../assets/amazon-fashion.png"
+import amazonfashion from "../../assets/amazonfashion.png"
 import sale1 from "../../assets/sale1.jpg"
 
 const Navbar3 = () => {
